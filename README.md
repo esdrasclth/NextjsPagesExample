@@ -36,3 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Paginas de referencia
 https://codeytek.com/next-js-tailwind-with-sass-example/
+https://tailblocks.cc/
