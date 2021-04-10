@@ -1,5 +1,11 @@
+import Layout from '../src/components/layout'
+
 function About() {
-    return 'About Pages'
+    return (
+        <Layout>
+            <p>this is about</p>
+        </Layout>
+    )
 }
 
 export default About
